@@ -3,6 +3,7 @@
     "displayName": "Finix Dark Theme",
     "description": "This is dark theme",
     "version": "0.0.1",
+    "publisher": "Finix2002",
     "engines": {
         "vscode": "^1.55.0"
     },
