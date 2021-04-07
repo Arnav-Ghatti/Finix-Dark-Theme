@@ -1,6 +1,23 @@
 {
-    "name": "",
+    "name": "finix-dark-theme",
+    "displayName": "Finix Dark Theme",
+    "description": "This is dark theme",
+    "version": "0.0.1",
     "type": "dark",
+    "publisher": "Finix2002",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Arnav-Ghatti/Finix-Dark-Theme/"
+    },
+    "kewords": [
+        "theme",
+        "dark theme",
+        "finix",
+        "finix dark theme",
+        "finix dark",
+        "arnav ghatti",
+        "arnav ghatti dark theme"
+    ],
     "colors": {
         "focusBorder": "#fa8d3e",
         "foreground": "#D9D9D9",
