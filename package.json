@@ -2,12 +2,13 @@
     "name": "finix-dark-theme",
     "displayName": "Finix Dark Theme",
     "description": "This is dark theme",
-    "version": "0.0.1",
+    "version": "0.1.2",
     "publisher": "Finix2002",
     "repository": {
         "type": "git",
         "url": "https://github.com/Arnav-Ghatti/Finix-Dark-Theme/"
     },
+    "icon": "images/Image.png",
     "kewords": [
         "theme",
         "dark theme",
