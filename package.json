@@ -1,0 +1,21 @@
+{
+    "name": "finix-dark-theme",
+    "displayName": "Finix Dark Theme",
+    "description": "This is dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Finix Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Finix Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
