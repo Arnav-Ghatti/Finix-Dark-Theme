@@ -4,6 +4,19 @@
     "description": "This is dark theme",
     "version": "0.0.1",
     "publisher": "Finix2002",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Arnav-Ghatti/Finix-Dark-Theme/"
+    },
+    "kewords": [
+        "theme",
+        "dark theme",
+        "finix",
+        "finix dark theme",
+        "finix dark",
+        "arnav ghatti",
+        "arnav ghatti dark theme"
+    ],
     "engines": {
         "vscode": "^1.55.0"
     },
